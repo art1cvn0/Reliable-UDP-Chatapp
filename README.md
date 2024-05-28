@@ -1,9 +1,12 @@
+Description
+-----------
 Python Peer to Peer chatting app over an implementation of a reliable UDP protocol & file transfer over TCP. (Stop & Wait)
 
 Requirements
 ------------
-Python (application tested using Python v3.9)
-Tkinter: pip install tk
+- Python (application tested using Python v3.9)
+- Tkinter: pip install tk
+- For testing purposes, you can use netem on a linux 
 
 [Minor fixes and improvements & future considerations]
 - Sequence number wraparound
